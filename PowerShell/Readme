@@ -1,1 +1,5 @@
+Script to Migrate files withing sharepoint online:
 
+Install the following packages on line 1 before running the script: Install-Module -Name "PnP.PowerShell"
+
+Replace url and copy files
